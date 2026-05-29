@@ -1,9 +1,9 @@
-
-  
+<div align="center">
   # Vyūhanam Web Solutions
 
   *Digital presence. Mastered.*
 
+  [**vyuhanam.in**](https://vyuhanam.in)
   
   <br />
 
@@ -22,10 +22,10 @@ Our approach rejects template-driven mediocrity. We believe that your digital pr
 
 We focus on high-end, purpose-built web solutions encompassing:
 
-*   **Strategic Digital Architecture:** We map out scalable data structures and precise user journeys before a single line of code is written, ensuring your platform is built for growth.
-*   **Bespoke Minimalist Design:** We apply rigorous aesthetic principles—utilizing deep contrast, striking typography, and clean layouts to craft interfaces that command immediate respect.
-*   **Performance-Driven Execution:** We build on modern foundations optimized for instantaneous rendering and fluid motion, ensuring a zero-friction experience for your users.
-*   **Conversion-Centric Layouts:** Every element is intentionally placed to guide user behavior and maximize the actions that matter to your business.
+* **Strategic Digital Architecture:** We map out scalable data structures and precise user journeys before a single line of code is written, ensuring your platform is built for growth.
+* **Bespoke Minimalist Design:** We apply rigorous aesthetic principles—utilizing deep contrast, striking typography, and clean layouts to craft interfaces that command immediate respect.
+* **Performance-Driven Execution:** We build on modern foundations optimized for instantaneous rendering and fluid motion, ensuring a zero-friction experience for your users.
+* **Conversion-Centric Layouts:** Every element is intentionally placed to guide user behavior and maximize the actions that matter to your business.
 
 ## ✦ Our Philosophy
 
@@ -36,5 +36,5 @@ We focus on high-end, purpose-built web solutions encompassing:
 ---
 
 <div align="center">
-  <p>Engineered by Vyūhanam. All rights reserved &copy; 2026.</p>
+  <p>Engineered by <a href="https://vyuhanam.in">Vyūhanam</a>. All rights reserved &copy; 2026.</p>
 </div>
