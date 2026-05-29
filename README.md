@@ -1,6 +1,6 @@
 
   
-  # Vyūhanam | Strategic Web Solutions
+  # Vyūhanam Web Solutions
 
   *Digital presence. Mastered.*
 
