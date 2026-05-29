@@ -4,7 +4,6 @@
 
   *Digital presence. Mastered.*
 
-  [View Live Demo](#) <!-- Replace with actual link when deployed -->
   
   <br />
 
