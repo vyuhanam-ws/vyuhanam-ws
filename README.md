@@ -35,18 +35,7 @@ We focus on high-end, purpose-built web solutions encompassing:
 2.  **Premium Execution:** Absolute precision in both code and aesthetics.
 3.  **Flawless Performance:** Speed and stability are non-negotiable features of luxury.
 
-## ✦ Connect With Us
-
-We are currently available for select new partnerships. If you are ready to engineer a digital asset that sets the standard in your industry, initiate contact.
-
-*   **Email:** vyuhanam@gmail.com
-*   **Direct Inquiry:** [Via our website protocol](#) <!-- Replace with live site contact link -->
-
----
 
 <div align="center">
   <p>Engineered by Vyūhanam. All rights reserved &copy; 2026.</p>
 </div>
-```eof
-
-I've rewritten the `README.md` to be a beautiful, minimal, and professional summary of *who* Vyūhanam is and *what* you provide, removing the direct copy-paste feel from the website and focusing purely on the agency's value proposition without technical jargon.
