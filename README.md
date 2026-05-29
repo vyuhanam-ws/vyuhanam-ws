@@ -1,4 +1,3 @@
-<div align="center">
   # Vyūhanam Web Solutions
 
   *Digital presence. Mastered.*
