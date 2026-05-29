@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="./1.png" alt="Vyūhanam Logo" width="200" style="margin-bottom: 20px;">
+
   
   # Vyūhanam | Strategic Web Solutions
 
@@ -35,6 +34,7 @@ We focus on high-end, purpose-built web solutions encompassing:
 2.  **Premium Execution:** Absolute precision in both code and aesthetics.
 3.  **Flawless Performance:** Speed and stability are non-negotiable features of luxury.
 
+---
 
 <div align="center">
   <p>Engineered by Vyūhanam. All rights reserved &copy; 2026.</p>
